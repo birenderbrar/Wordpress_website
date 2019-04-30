@@ -1,2 +1,2 @@
 # Wordpress_website-
-WordPress website designed for an organization called (helpthemstudy.org) [https://helpthemstudy.org/]
+WordPress website designed for an organization, please visit https://helpthemstudy.org/
